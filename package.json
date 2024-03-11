@@ -3,6 +3,7 @@
     "version": "1.0.2",
     "title": "Ion.Tabs",
     "description": "jQuery tabs plugin. Easy and well done tabs with many options and skin support",
+    "main": "js/ion-tabs/ion.tabs.js",
     "keywords": [
         "jquery-plugin",
         "ecosystem:jquery",
